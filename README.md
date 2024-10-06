@@ -1,34 +1,42 @@
- <div align=center>	
-  <h1>Welcome to yunju-m github 👋</h1>
-  
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunju-m&count_bg=%23FF99F0&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  <h3>Most languages ❤️</h3>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunju-m&layout=compact&theme=tokyonight)
-  
-  <h3>Backjoon solved rank 🏆</h3>
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunju)](https://solved.ac/yunju)
-    
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20Yunju's%20Github!😎&height=200&animation=scaleIn&fontSize=40)
+
 </div>
 
-## 🔥 Tech stack 🔥
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=white)
-![Css](https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
-![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+<h1 align="left">Hi 👋 This is Yunju Ma, a developer who is constantly rushing forward</h1>
+<h3 align="left">With the determination to be a better developer than I was yesterday, I write code with the mindset of growing one step at a time every day.</h3>
 
-## ⭐ Environment ⭐
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJidea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+- 📫 How to reach me **mayoonju@gmail.com**
+
+<hr />
+
+### 💪 Language & Framework
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/spring&nbsp;boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+
+### 💾 Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+
+### 🗄️ Servers
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
+### 🛠️ Tools
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌱 Learning
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/spring&nbsp;boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
+
+<div>
+  <img src="https://img.shields.io/github/followers/yunju-m?style=social" alt="github followers" height="24" />
+</div>
+
+<h3 align="left">📈 my github stats</h3>
+<br />
+
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunju-m&show_icons=true&theme=gotham&locale=en" alt="dasom222g" /></p>
+
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunju-m&theme=gotham" alt="dasom222g" /></p>
+
+
